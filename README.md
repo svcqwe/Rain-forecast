@@ -1,6 +1,6 @@
 Dataset: https://www.kaggle.com/datasets/rohullahakbari12/weather-prediction
 
-#   ОПИСАНИЕ ДАТАСЕТА: 
+**   ОПИСАНИЕ ДАТАСЕТА: 
  
 #   Date: The date of the weather observation.
 #   MinTemp: The minimum temperature recorded on that day.
